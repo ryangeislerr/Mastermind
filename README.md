@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="C:\Users\e1302301\Downloads\Mastermind-ready-for-github.zip\Final Mastermind Game\screenshotsbanner.png" alt="Mastermind" width="500">
-</p>
-
 # Mastermind
 
 An iOS recreation of the classic code-breaking game, built with SwiftUI.
