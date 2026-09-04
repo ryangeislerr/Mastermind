@@ -4,13 +4,6 @@ An iOS recreation of the classic code-breaking game, built with SwiftUI.
 
 The app picks a secret sequence of 4 colors out of 6 possible options. You get 7 guesses to crack it, with feedback after each one telling you how close you were.
 
-## Screenshots
-
-<p float="left">
-  <img src="screenshots/gameplay.png" width="260">
-  <img src="screenshots/color-picker.png" width="260">
-</p>
-
 ## How to play
 
 1. Tap a color, then tap one of the four slots in your guess row to place it.
